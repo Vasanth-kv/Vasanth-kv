@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/a66a9dbd-06db-406a-8a2d-fe02ae9e208e)**Vasanth K**
+**Vasanth K**
 
 🔧 **Trained Full Stack Developer** | 🌐 **Java, Python, Spring Boot, Django** | 💻 **Passionate about Web Development**
 
@@ -33,6 +33,5 @@ I'm a **Trained and Certified Full Stack Developer** with hands-on experience in
 
 I'm eager to collaborate and contribute innovative solutions in a fast-paced, dynamic environment. Let's connect and build something amazing together!
 **Resume:** 
-📫 **Contact:** [LinkedIn](https://www.linkedin.com/in/your-profile) |  📞 [8940755405] | ![image](https://github.com/user-attachments/assets/b43a50cb-b338-4e34-b721-8980e34ced94)
-kvasanthkv540@gmail.com 
+📫 **Contact:** [LinkedIn](https://www.linkedin.com/in/your-profile) |  📞 [8940755405] | ![image](https://github.com/user-attachments/assets/b43a50cb-b338-4e34-b721-8980e34ced94) kvasanthkv540@gmail.com 
 
