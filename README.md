@@ -33,12 +33,6 @@ I'm a **Trained and Certified Full Stack Developer** with hands-on experience in
 
 I'm eager to collaborate and contribute innovative solutions in a fast-paced, dynamic environment. Let's connect and build something amazing together!
 **Resume:** 
-📫 **Contact:** [LinkedIn](https://www.linkedin.com/in/your-profile) |  📞 [8940755405]
-
+📫 **Contact:** [LinkedIn](https://www.linkedin.com/in/your-profile) |  📞 [8940755405] | ![image](https://github.com/user-attachments/assets/b43a50cb-b338-4e34-b721-8980e34ced94)
 kvasanthkv540@gmail.com 
-<a href="mailto:your.email@example.com">
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24">
-    <path d="M12 13.29l6.29-6.29c.39-.39.39-1.02 0-1.41l-1.29-1.29c-.39-.39-1.02-.39-1.41 0L12 10.59 7.41 6.71c-.39-.39-1.02-.39-1.41 0L4.71 8.71c-.39.39-.39 1.02 0 1.41L12 13.29z"/>
-    <path d="M12 14.71L5.71 8.41c-.39-.39-1.02-.39-1.41 0L2.71 9.71c-.39.39-.39 1.02 0 1.41L12 15.29l9.29-9.29c.39-.39.39-1.02 0-1.41l-1.29-1.29c-.39-.39-1.02-.39-1.41 0L12 14.71z"/>
-  </svg>
-</a>
+
