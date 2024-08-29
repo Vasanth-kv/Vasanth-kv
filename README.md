@@ -1,4 +1,4 @@
-**Vasanth K**
+![image](https://github.com/user-attachments/assets/a66a9dbd-06db-406a-8a2d-fe02ae9e208e)**Vasanth K**
 
 🔧 **Trained Full Stack Developer** | 🌐 **Java, Python, Spring Boot, Django** | 💻 **Passionate about Web Development**
 
@@ -32,5 +32,12 @@ I'm a **Trained and Certified Full Stack Developer** with hands-on experience in
 ---
 
 I'm eager to collaborate and contribute innovative solutions in a fast-paced, dynamic environment. Let's connect and build something amazing together!
-
-📫 **Contact:** [LinkedIn](https://www.linkedin.com/in/your-profile) | kvasanthkv540@gmail.com
+**Resume:** 
+📫 **Contact:** [LinkedIn](https://www.linkedin.com/in/your-profile) | 
+<a href="mailto:your.email@example.com">
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24">
+    <path d="M12 13.29l6.29-6.29c.39-.39.39-1.02 0-1.41l-1.29-1.29c-.39-.39-1.02-.39-1.41 0L12 10.59 7.41 6.71c-.39-.39-1.02-.39-1.41 0L4.71 8.71c-.39.39-.39 1.02 0 1.41L12 13.29z"/>
+    <path d="M12 14.71L5.71 8.41c-.39-.39-1.02-.39-1.41 0L2.71 9.71c-.39.39-.39 1.02 0 1.41L12 15.29l9.29-9.29c.39-.39.39-1.02 0-1.41l-1.29-1.29c-.39-.39-1.02-.39-1.41 0L12 14.71z"/>
+  </svg>
+</a>
+kvasanthkv540@gmail.com |  📞 [Your Phone Number]
