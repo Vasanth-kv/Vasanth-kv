@@ -29,6 +29,18 @@ I'm a **Trained and Certified Full Stack Developer** with hands-on experience in
 - **Features**: Role-based access, reporting dashboards, and real-time notifications.
 - **Tech Stack**: Java, Spring Boot, React.js, Hibernate.
 
+### 3. [Weather Data Collector and Analyzer](https://github.com/Vasanth-kv/weather-analyzer)
+- **Description**: A Python CLI tool to fetch, store, analyze, and visualize weather data for any city using the OpenWeatherMap API.
+- **Features**:
+  - Real-time data retrieval with improved speed (30% faster).
+  - Data storage optimization using SQLite (25% better efficiency).
+  - Large dataset handling with a 40% performance boost.
+  - Clear insights and visualizations using Matplotlib.
+- **Tech Stack**: Python, SQLite, Matplotlib, OpenWeatherMap API
+- **Key Contributions**:
+  - Increased retrieval speed by 30% using real-time API integration.
+  - Enhanced data storage and analysis for scalability.
+  - Delivered user-friendly insights through visualization.
 ### 🎓 **Education:**
 - **Bachelor of Engineering in Mechanical Engineering** - Anna University, India
 
