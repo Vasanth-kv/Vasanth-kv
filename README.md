@@ -1,6 +1,6 @@
-**Vasanth K**
+# Hi, I'm Vasanth Kirubshankar! 👋
 
-🔧 **Trained Full Stack Developer** | 🌐 **Java, Python, Spring Boot, Django** | 💻 **Passionate about Web Development**
+🔧 **Trained Full Stack Developer** | 🌐 **Java, Python, Spring Boot, Django** | 💻 **Passionate about Web Development** | 🔧 **Experienced in Spring Boot, React.js, and Hibernate** 
 
 ---
 
@@ -19,7 +19,15 @@ I'm a **Trained and Certified Full Stack Developer** with hands-on experience in
 - **SCM Executive** at JBM Auto Pvt Ltd: Led cross-functional teams in supply chain management, integrating technology tools to boost efficiency.
 
 ### 🛠️ **Projects:**
-- **Medication Inventory Management System:** Developed a robust web-based system using Java, Spring Boot, and React.js that reduced medication waste by 20% and improved inventory accuracy by 35%.
+### 1. [Medication Inventory Management System](https://github.com/Vasanth-kv/medication-inventory)
+- **Description**: A web-based system for tracking medication stock levels, expiration dates, and dispensing records.
+- **Features**: Automated alerts for low stock and expiration, user authentication, and reporting.
+- **Tech Stack**: Java, Spring Boot, React.js, MySQL, Bootstrap.
+
+### 2. [Internal Learning Management System (LMS)](https://github.com/Vasanth-kv/lms-project)
+- **Description**: An LMS for course management, scheduling, and user role management.
+- **Features**: Role-based access, reporting dashboards, and real-time notifications.
+- **Tech Stack**: Java, Spring Boot, React.js, Hibernate.
 
 ### 🎓 **Education:**
 - **Bachelor of Engineering in Mechanical Engineering** - Anna University, India
