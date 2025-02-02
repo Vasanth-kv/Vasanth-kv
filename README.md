@@ -1,4 +1,4 @@
-# Hi, I'm Vasanth Kirubshankar! 👋
+# Hi, I'm Vasanth Kirupashankar! 👋
 
 🔧 **Trained Full Stack Developer** | 🌐 **Java, Python, Spring Boot, Django** | 💻 **Passionate about Web Development** | 🔧 **Experienced in Spring Boot, React.js, and Hibernate** 
 
