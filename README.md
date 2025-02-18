@@ -79,5 +79,5 @@ I'm eager to collaborate and contribute innovative solutions in a fast-paced, dy
 📌 **Portfolio:** [vasanth-kirupashankar-540.netlify.app](https://vasanth-kirupashankar-540.netlify.app/) 🌐  
 
 **Resume:** 
-📫 **Contact:** [LinkedIn](https://www.linkedin.com/in/your-profile) |  📞 [8940755405] | ![image](https://github.com/user-attachments/assets/b43a50cb-b338-4e34-b721-8980e34ced94) kvasanthkv540@gmail.com 
+📫 **Contact:** 🔗 [LinkedIn](https://www.linkedin.com/in/your-profile) |  📞 [8940755405] | 📧 kvasanthkv540@gmail.com 
 
