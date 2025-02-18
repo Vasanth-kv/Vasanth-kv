@@ -27,7 +27,7 @@ I'm a **Trained and Certified Full Stack Developer** with hands-on experience in
 
 ### 🛠️ **Projects:**
 ### 1️⃣ Medication Inventory Management System 🏥  
-📌 **[GitHub Repo](https://github.com/Vasanth-kv/medication-inventory)** | 🚀 **[Live Demo](your-demo-link-here)**  
+📌 **[GitHub Repo](https://github.com/Vasanth-kv/medication-inventory-management)** | 🚀 **[Live Demo]((https://github.com/Vasanth-kv/medication-inventory-management)**  
 ✅ **Description:**  
 A web-based system for tracking medication stock levels, expiration dates, and dispensing records.  
 ✅ **Features:**  
@@ -39,7 +39,7 @@ A web-based system for tracking medication stock levels, expiration dates, and d
 ---
 
 ### 2️⃣ Internal Learning Management System (LMS) 🎓  
-📌 **[GitHub Repo](https://github.com/Vasanth-kv/lms-project)** | 🚀 **[Live Demo](your-demo-link-here)**  
+📌 **[GitHub Repo](https://elearning.360ripples.com/)** | 🚀 **[Live Demo](https://elearning.360ripples.com/)**  
 ✅ **Description:**  
 An LMS for course management, scheduling, and user role management.  
 ✅ **Features:**  
